@@ -1,0 +1,27 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    background-color: aliceblue;
+}
+h1 {
+    text-align: center;
+}
+table {
+    border-style: solid;
+    margin-left: auto;
+    margin-right: auto;
+    border-color: blue;
+}
+h2 {
+    text-align: center;
+}
+.tag {
+    background-color: white;
+}
+thead {
+    background-color: Aqua;
+}
+th, td {
+    border-bottom: ridge;
+}
